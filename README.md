@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 ¡Hola! Soy Emmanuel, un apasionado desarrollador de software de la República Dominicana. Me encanta aprender cosas nuevas y enfrentar retos que me permitan crecer tanto personal como profesionalmente. Soy una persona amable y siempre estoy dispuesto a colaborar y compartir conocimientos con la comunidad.<br><br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning javascript<br>💬 Ask me about<br>⚡ Fun fact
 
